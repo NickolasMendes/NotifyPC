@@ -19,3 +19,13 @@ Aplicação em PHP que envia uma notificação para seu celular sempre que o PC 
 ## Demonstração 👀
 
 <img src="/img/demonstracao.jpg" />
+
+
+
+## 🚀  Feito por:  
+
+NICKOLAS MENDES (***[Berg](https://www.instagram.com/nmcamiliss/)***)
+
+**=> GITHUB**: [https://github.com/NickolasMendes](https://github.com/NickolasMendes) <br />
+**=> LinkeIn**: [https://www.linkedin.com/in/nickolas-mendes](https://www.linkedin.com/in/nickolas-mendes) <br />
+**=> Portfólio**: [nickolasmendes.github.io/portfolio](nickolasmendes.github.io/portfolio) <br />
