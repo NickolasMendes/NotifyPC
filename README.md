@@ -6,7 +6,9 @@ Aplicação em PHP que envia uma notificação para seu celular sempre que o PC 
 
 ## Acesse o Projeto 👨🏻‍💻
 
-[Baixe o Repositório clicando aqui](https://github.com/NickolasMendes/NotifyPC/archive/refs/heads/main.zip)
+[Baixe o Repositório clicando aqui](https://github.com/NickolasMendes/NotifyPC/archive/refs/heads/main.zip) 
+<br />
+[Acesse a Documentação](https://github.com/NickolasMendes/NotifyPC/blob/main/Documetation.md)
 ## Aprendizados 🖊
 
 - Desenvolvimento utilizando a [API Pushbullet](https://www.pushbullet.com) e o   [Aplicativo Mobile Pushbullet](https://play.google.com/store/apps/details?id=com.pushbullet.android&hl=pt_BR&pli=1)
