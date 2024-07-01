@@ -1,5 +1,5 @@
 
-# Objetivo: 💻  
+# Objetivo: 💻 
 
 Criar um sistema que envie uma notificação para o celular do usuário sempre que o PC for ligado, utilizando PHP e a API do Pushbullet.
 

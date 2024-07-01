@@ -1,6 +1,6 @@
 <?php
 // Chave de API do Pushbullet
-define('PUSHBULLET_API_KEY', 'SUA_API_KEY');  
+define('PUSHBULLET_API_KEY', 'SUA_API_KEY'); 
 define('PUSHBULLET_API_URL', 'https://api.pushbullet.com/v2/pushes'); 
 
 $data = array(
