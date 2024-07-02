@@ -28,4 +28,4 @@ NICKOLAS MENDES (***[Berg](https://www.instagram.com/nmcamiliss/)***)
 
 **=> GITHUB**: [https://github.com/NickolasMendes](https://github.com/NickolasMendes) <br />
 **=> LinkeIn**: [https://www.linkedin.com/in/nickolas-mendes](https://www.linkedin.com/in/nickolas-mendes) <br />
-**=> Portfólio**: [nickolasmendes.github.io/portfolio](nickolasmendes.github.io/portfolio) <br />
+**=> Portfólio**: [nickolasmendes.github.io/portfolio](https://nickolasmendes.github.io/portfolio) <br />
